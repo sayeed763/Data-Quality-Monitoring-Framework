@@ -4,8 +4,8 @@ import datetime
 
 # Database Config
 DB_USER = "postgres"
-DB_PASSWORD = "SayeedProject2026"
-DB_HOST = "crypto-db.c6lgk8qqkp23.us-east-1.rds.amazonaws.com"
+DB_PASSWORD = "YOUR_DB_PASSWORD"
+DB_HOST = "your-db-instance.aws.com"
 DB_PORT = "5432"
 DB_NAME = "postgres"
 
